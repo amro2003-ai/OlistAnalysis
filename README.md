@@ -6,3 +6,5 @@ This is a report to analyze olist data from 2015 to 2018, which is a Brazilian E
 Instructions:
 You need to download Power BI desktop.
 You need to open the .pbix file using Power Bi.
+
+Data Link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
